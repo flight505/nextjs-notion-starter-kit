@@ -2,7 +2,7 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: '16194e37e6f34833bebadbc3e2966df6',
+  rootNotionPageId: '69abc4c3e2454c8892d9af7136c0acc5',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Jesper Vang - ramblings',
-  domain: 'https://noon-plate-9cf.notion.site/Jesper-Vang-16194e37e6f34833bebadbc3e2966df6',
+  domain: 'https://noon-plate-9cf.notion.site/Jesper-Vang-69abc4c3e2454c8892d9af7136c0acc5',
   author: 'Jesper Vang',
 
   // open graph metadata (optional)
